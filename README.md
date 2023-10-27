@@ -19,14 +19,23 @@ The task requires that we come up with 4(four) business questions and query the 
 4.What is the Averagr profit yearly increment ?
  
 ## Result/Discussion:
-- The table showing the Names and Salaries of the Employees are shown in the snapshot below
+
+The table showing the Names and Salaries of the Employees are shown in the snapshot below
 - ![](SQL_TASK5.PNG)
 - --
-- The Top 3 segments with the highest sales are shown in the snapshot below
+
+The Top 3 segments with the highest sales are shown in the snapshot below
 - ![](SQL_TASK5A.PNG)
 - --
-- The City with the most sales is as seen in the snapshot below
+
+The City with the most sales is as seen in the snapshot below
 - ![](SQL_TASK5B.PNG)
 - --
-- 
-- 
+
+The Average profit yarly increment is 4765.0000 as seen in the snapshot below
+- ![](SQL_TASK5D.PNG)
+- --
+
+# Conclusion:
+
+Through this task, it was possible to find solutions to the above business questions and with the use of SQL commands like ORDER BY,GROUP BY,JOINS and AGGREGATE FUNCTIONS, valuable insights were gotten that would aid in better decision making. 
